@@ -1,8 +1,6 @@
 {                                     
   "thème": "Culture De Dev",         
-  "quizz": {
-    "fr": {
-      "débutant": [
+  "quiz": {
       {
         "id": 1,
         "question": "Quel acteur, chanteur et humoriste aimé des français s'appelait André Raimbourg ?",
@@ -122,9 +120,7 @@
         ],
         "réponse": "Disparue",
         "anecdote": "Semblable au lion, le smilodon était caractérisé par ses longues canines supérieures émergeant devant la mâchoire inférieure."
-      }
-    ],
-    "confirmé": [
+      },
       {
         "id": 11,
         "question": "Quel est le diamètre approximatif de la place Charles-de-Gaulle à Paris ?",
@@ -244,9 +240,7 @@
         ],
         "réponse": "Maria Schneider",
         "anecdote": "Le réalisateur avait fait le rêve de rencontrer une femme dans la rue et d'avoir avec elle un rapport sexuel sans connaître son nom."
-      }
-    ],
-    "expert": [
+      },
       {
         "id": 21,
         "question": "Qui incarne la première femme sur terre dans la mythologie grecque ?",
@@ -307,8 +301,7 @@
         "réponse": "Brésil",
         "anecdote": "Ce plat festif est fait avec des feuilles de la plante Manioc qui ont été finement broyées et bouillies pendant une semaine."
       }
-    ]
-  }}
+  }
 }
 
   
